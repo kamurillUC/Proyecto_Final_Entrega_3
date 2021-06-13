@@ -1,0 +1,19 @@
+{
+    'nombre_tienda' : "Tienda Simón Escazú",
+    'sede': "Escazú",
+    'departamentos': {
+        'damas': {
+            'nombre': "Damas",
+            'productos': []
+        },
+        'caballeros': {
+            'nombre': "Caballeros",
+            'productos': []
+        },
+        'kids': {
+            'nombre': "Niños",
+            'productos': []
+        }
+
+    }
+}

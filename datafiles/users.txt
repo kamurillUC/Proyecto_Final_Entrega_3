@@ -1,0 +1,14 @@
+[
+    {
+        'usuario': 'admin',
+        'password': 'eb8ab8c34a670deb7afa0e368884a316854ebb5936c3107cf830e46112309eae',
+        'full_name': 'Alejandro Sanchez',
+        'role': 'admin'
+    },
+    {
+        'usuario': 'guest',
+        'password': '65b3733ddf91037803c3a54ef775ad52d6f9b85a0023c81533e17da46b049858',
+        'full_name': 'Kevin Murillo Rojas',
+        'role': 'invitado'
+    }
+]
